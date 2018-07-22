@@ -1,0 +1,18 @@
+2018-07-08 22:06:52,675 - logger - DEBUG - Exception occured while ordering products
+2018-07-08 22:10:07,138 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:10:07,216 - logger - DEBUG - Exception in Order Product method
+2018-07-08 22:10:07,217 - logger - DEBUG - Exception occured while ordering products
+2018-07-08 22:11:02,914 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:19:34,497 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:19:34,506 - logger - DEBUG - Failed in generatig field
+2018-07-08 22:21:26,753 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:21:26,760 - logger - DEBUG - Failed in generatig field
+2018-07-08 22:23:19,437 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:23:19,451 - logger - DEBUG - Failed in generatig field
+2018-07-08 22:23:59,324 - logger - DEBUG - Trying to decrease the product_quantity by 2
+2018-07-08 22:29:43,985 - logger - DEBUG - Exception in finduserproducts method
+2018-07-08 22:30:18,024 - logger - DEBUG - Exception in finduserproducts method
+2018-07-08 22:30:58,901 - logger - DEBUG - Exception in findingallorders
+2018-07-08 22:30:58,902 - logger - DEBUG - Exception in finduserproducts method
+2018-07-08 22:31:59,930 - logger - DEBUG - Exception in findingallorders
+2018-07-08 22:31:59,930 - logger - DEBUG - Exception in finduserproducts method
